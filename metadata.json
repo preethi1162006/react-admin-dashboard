@@ -1,0 +1,6 @@
+{
+  "name": "React Admin Dashboard",
+  "description": "A clean, responsive SaaS-style Admin Dashboard built with React, Vite, and Tailwind CSS for Week 1 frontend development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
